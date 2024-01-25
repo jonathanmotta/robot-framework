@@ -67,3 +67,5 @@ Certifique-se de substituir "tests" e "results" pelos nomes reais dos seus diret
 
 Lembre-se de que, se você estiver usando o Robot Framework Ride (interface gráfica), também pode executar os testes diretamente a partir da interface.
 Adapte os comandos conforme necessário com base na estrutura do seu projeto e nos requisitos específicos do seu teste.
+
+![image](https://github.com/jonathanmotta/robot-framework/assets/43069521/031adc0b-c232-4dcf-8eb9-0132e62ad5ac)
