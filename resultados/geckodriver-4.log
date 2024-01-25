@@ -1,0 +1,52 @@
+1706197107368	geckodriver	INFO	Listening on 127.0.0.1:56887
+1706197110434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Pessoal\\AppData\\Local\\Temp\\rust_mozprofileVMXk4b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706197110797	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706197110930	Marionette	INFO	Listening on port 56904
+WebDriver BiDi listening on ws://127.0.0.1:56888
+Read port: 56904
+1706197111071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56888/devtools/browser/dbd51a14-0836-43d2-b7e9-99cb4cffb609
+JavaScript warning: https://www.amazon.com.br/, line 2167: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.br/s?k=Console+Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6807: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_39?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=controle+xbox+series+s&qid=1706197371&sr=8-39&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147, line 9686: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: uncaught exception: 
+1706197140816	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3035: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5262: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1706197162890	Marionette	INFO	Stopped listening on port 56904
+JavaScript warning: https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51RBtQqsEML.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI, line 16: Script terminated by timeout at:
+d</once/<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51RBtQqsEML.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11YA5PIFcPL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11EWRk6r74L.js,21paGe30x-L.js,01490L6yBnL.js,51nBtdyQGcL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01RMmNcPMuL.js_.js?AUIClients/AmazonUI:16:475
+
+Dynamically enable window occlusion 1

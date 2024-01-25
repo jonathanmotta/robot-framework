@@ -1,0 +1,47 @@
+1706197047888	geckodriver	INFO	Listening on 127.0.0.1:56661
+1706197050929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Pessoal\\AppData\\Local\\Temp\\rust_mozprofileef5u2B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706197051280	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706197051408	Marionette	INFO	Listening on port 56682
+WebDriver BiDi listening on ws://127.0.0.1:56662
+Read port: 56682
+1706197051553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56662/devtools/browser/a197b1d1-b052-4bdf-afb6-79b86a59ec8f
+JavaScript warning: https://www.amazon.com.br/, line 2163: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.br/s?k=Console+Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6908: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/ref=sr_1_39?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=controle+xbox+series+s&qid=1706197311&sr=8-39&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147, line 9675: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: uncaught exception: 
+1706197081288	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3038: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5265: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706197103692	Marionette	INFO	Stopped listening on port 56682
+Dynamically enable window occlusion 1

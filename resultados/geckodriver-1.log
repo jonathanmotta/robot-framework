@@ -1,0 +1,20 @@
+1706197021167	geckodriver	INFO	Listening on 127.0.0.1:56466
+1706197024234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Pessoal\\AppData\\Local\\Temp\\rust_mozprofilezvF61u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706197024591	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706197024725	Marionette	INFO	Listening on port 56478
+WebDriver BiDi listening on ws://127.0.0.1:56467
+Read port: 56478
+1706197024947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56467/devtools/browser/64c2355d-7ed5-40ff-8448-79aa5a5da672
+JavaScript warning: https://www.amazon.com.br/, line 2160: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 57780: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706197030945	Marionette	INFO	Stopped listening on port 56478
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 57687: Script terminated by timeout at:
+timeout/<@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:57687:88
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
